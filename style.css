@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.place_off{
+  background-color: blue;
+  width: 34px;
+  height: 34px;
+}
+
+.place_on{
+  background-color:red;
+  width: 34px;
+  height: 34px;
+}
